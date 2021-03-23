@@ -1,4 +1,14 @@
-tool = {
+const user = {
+    name: "Miguel",
+    lastName: "Rivas",
+    location: "Washington DC",
+    codepen: "planetwurlex",
+    github: "miguel-rivas",
+};
+
+const fullName = `${user.name} ${user.lastName}`;
+
+const tool = {
     html,
     pug,
     haml,
@@ -29,13 +39,13 @@ tool = {
     inkscape,
 };
 
-role = {
+const role = {
     design,
     frontend,
     animation,
 };
 
-mode = {
+const mode = {
     userFlow,
     wireFrame,
     app,
@@ -46,7 +56,7 @@ mode = {
     document,
 }
 
-client = {
+const client = {
     presidente,
     drLogic,
     descubria,
@@ -62,7 +72,7 @@ client = {
     orange,
 };
 
-projects = [
+const projects = [
     {
         date: "2014/06/02",
         title: "Destapa el Coro",
@@ -495,12 +505,11 @@ projects = [
     // 	externalLink: true,
     // 	type: "Website",
     // 	url: "http://socialinvestdr.com",
-    // 	preview: "sip"
-    /
+    // 	preview: "sip",
     // 	isVideo: false,
     // 	role: [
         // role.frontend,
-    ],
+    // ],
     // 	client: "SIP",
     // 	summary: [
     // 		tool.pug,
