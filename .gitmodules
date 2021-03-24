@@ -67,3 +67,6 @@
 [submodule "flat-css"]
 	path = flat-css
 	url = https://github.com/miguel-rivas/flat-css
+[submodule "hello"]
+	path = hello
+	url = https://github.com/miguel-rivas/hello
