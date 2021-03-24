@@ -64,30 +64,6 @@
 [submodule "miguel-rivas-2014"]
 	path = miguel-rivas-2014
 	url = https://github.com/miguel-rivas/miguel-rivas-2014
-[submodule "hello-applift"]
-	path = hello-applift
-	url = https://github.com/miguel-rivas/hello-applift
-[submodule "hello-culture-amp"]
-	path = hello-culture-amp
-	url = https://github.com/miguel-rivas/hello-culture-amp
-[submodule "hello-from-a-b"]
-	path = hello-from-a-b
-	url = https://github.com/miguel-rivas/hello-from-a-b
-[submodule "hello-westwind"]
-	path = hello-westwind
-	url = https://github.com/miguel-rivas/hello-westwind
-[submodule "test-insticator"]
-	path = test-insticator
-	url = https://github.com/miguel-rivas/test-insticator
-[submodule "test-pixel-perfect-tree"]
-	path = test-pixel-perfect-tree
-	url = https://github.com/miguel-rivas/test-pixel-perfect-tree
-[submodule "hello-university-texas"]
-	path = hello-university-texas
-	url = https://github.com/miguel-rivas/hello-university-texas
-[submodule "test-tirerack"]
-	path = test-tirerack
-	url = https://github.com/miguel-rivas/test-tirerack
 [submodule "flat-css"]
 	path = flat-css
 	url = https://github.com/miguel-rivas/flat-css
