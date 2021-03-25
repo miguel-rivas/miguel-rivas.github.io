@@ -73,6 +73,3 @@
 [submodule "window"]
 	path = window
 	url = https://github.com/miguel-rivas/window
-[submodule "miguel-rivas-server-prompt"]
-	path = miguel-rivas-server-prompt
-	url = https://github.com/miguel-rivas/miguel-rivas-server-prompt
