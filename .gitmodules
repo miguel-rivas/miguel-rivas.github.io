@@ -76,3 +76,9 @@
 [submodule "test-pixel-perfect-tree"]
 	path = test-pixel-perfect-tree
 	url = https://github.com/miguel-rivas/test-pixel-perfect-tree
+[submodule "miguel-rivas-2021-2"]
+	path = miguel-rivas-2021-2
+	url = https://github.com/miguel-rivas/miguel-rivas-2021-2
+[submodule "miguel-rivas-2021"]
+	path = miguel-rivas-2021
+	url = https://github.com/miguel-rivas/miguel-rivas-2021
