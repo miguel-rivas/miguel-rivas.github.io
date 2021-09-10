@@ -1,12 +1,12 @@
 [submodule "nano-grid"]
 	path = nano-grid
 	url = https://github.com/miguel-rivas/nano-grid
-[submodule "miguel-rivas-2018"]
-	path = miguel-rivas-2018
-	url = https://github.com/miguel-rivas/miguel-rivas-2018
-[submodule "miguel-rivas-2016"]
-	path = miguel-rivas-2016
-	url = https://github.com/miguel-rivas/miguel-rivas-2016
+[submodule "2018"]
+	path = 2018
+	url = https://github.com/miguel-rivas/2018
+[submodule "2016"]
+	path = 2016
+	url = https://github.com/miguel-rivas/2016
 [submodule "drlogic"]
 	path = drlogic
 	url = https://github.com/miguel-rivas/drlogic
@@ -61,9 +61,9 @@
 [submodule "voxel-animation"]
 	path = voxel-animation
 	url = https://github.com/miguel-rivas/voxel-animation
-[submodule "miguel-rivas-2014"]
-	path = miguel-rivas-2014
-	url = https://github.com/miguel-rivas/miguel-rivas-2014
+[submodule "2014"]
+	path = 2014
+	url = https://github.com/miguel-rivas/2014
 [submodule "flat-css"]
 	path = flat-css
 	url = https://github.com/miguel-rivas/flat-css
@@ -76,9 +76,9 @@
 [submodule "test-pixel-perfect-tree"]
 	path = test-pixel-perfect-tree
 	url = https://github.com/miguel-rivas/test-pixel-perfect-tree
-[submodule "miguel-rivas-2021-2"]
-	path = miguel-rivas-2021-2
-	url = https://github.com/miguel-rivas/miguel-rivas-2021-2
-[submodule "miguel-rivas-2021"]
-	path = miguel-rivas-2021
-	url = https://github.com/miguel-rivas/miguel-rivas-2021
+[submodule "2021-react"]
+	path = 2021-react
+	url = https://github.com/miguel-rivas/2021-react
+[submodule "2021-vue"]
+	path = 2021-vue
+	url = https://github.com/miguel-rivas/2021-vue
