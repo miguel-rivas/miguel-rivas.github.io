@@ -1,85 +1,110 @@
-[submodule "nano-grid"]
-	path = nano-grid
-	url = https://github.com/miguel-rivas/nano-grid
-[submodule "2018"]
-	path = 2018
-	url = https://github.com/miguel-rivas/2018
-[submodule "2016"]
-	path = 2016
-	url = https://github.com/miguel-rivas/2016
-[submodule "drlogic"]
-	path = drlogic
-	url = https://github.com/miguel-rivas/drlogic
-[submodule "evolution-web"]
-	path = evolution-web
-	url = https://github.com/miguel-rivas/evolution-web
-[submodule "tetravex"]
-	path = tetravex
-	url = https://github.com/miguel-rivas/tetravex
-[submodule "svg-101"]
-	path = svg-101
-	url = https://github.com/miguel-rivas/svg-101
-[submodule "apap-mineriza-familia"]
-	path = apap-mineriza-familia
-	url = https://github.com/miguel-rivas/apap-mineriza-familia
-[submodule "css-study"]
-	path = css-study
-	url = https://github.com/miguel-rivas/css-study
-[submodule "html-love"]
-	path = html-love
-	url = https://github.com/miguel-rivas/html-love
-[submodule "presidente-retro-brindis"]
-	path = presidente-retro-brindis
-	url = https://github.com/miguel-rivas/presidente-retro-brindis
-[submodule "pixel-server-prompt"]
-	path = pixel-server-prompt
-	url = https://github.com/miguel-rivas/pixel-server-prompt
-[submodule "presidente-verano-2015"]
-	path = presidente-verano-2015
-	url = https://github.com/miguel-rivas/presidente-verano-2015
-[submodule "presidente-destapa-coro"]
-	path = presidente-destapa-coro
-	url = https://github.com/miguel-rivas/presidente-destapa-coro
-[submodule "presidente-photo-2014"]
-	path = presidente-photo-2014
-	url = https://github.com/miguel-rivas/presidente-photo-2014
-[submodule "presidente-carnaval-2015"]
-	path = presidente-carnaval-2015
-	url = https://github.com/miguel-rivas/presidente-carnaval-2015
-[submodule "presidente-loader"]
-	path = presidente-loader
-	url = https://github.com/miguel-rivas/presidente-loader
-[submodule "capital-dbg-server-prompt"]
-	path = capital-dbg-server-prompt
-	url = https://github.com/miguel-rivas/capital-dbg-server-prompt
-[submodule "main-front"]
-	path = main-front
-	url = https://github.com/miguel-rivas/main-front
-[submodule "descubria"]
-	path = descubria
-	url = https://github.com/miguel-rivas/descubria
-[submodule "voxel-animation"]
-	path = voxel-animation
-	url = https://github.com/miguel-rivas/voxel-animation
 [submodule "2014"]
 	path = 2014
+	branch = gh-pages
 	url = https://github.com/miguel-rivas/2014
-[submodule "flat-css"]
-	path = flat-css
-	url = https://github.com/miguel-rivas/flat-css
-[submodule "hello"]
-	path = hello
-	url = https://github.com/miguel-rivas/hello
-[submodule "window"]
-	path = window
-	url = https://github.com/miguel-rivas/window
-[submodule "test-pixel-perfect-tree"]
-	path = test-pixel-perfect-tree
-	url = https://github.com/miguel-rivas/test-pixel-perfect-tree
+[submodule "2016"]
+	path = 2016
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/2016
+[submodule "2018"]
+	path = 2018
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/2018
 [submodule "2021-react"]
 	path = 2021-react
+	branch = gh-pages
 	url = https://github.com/miguel-rivas/2021-react
 [submodule "2021-vue"]
 	path = 2021-vue
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/2021-vue
+
+
+[submodule "drlogic"]
+	path = drlogic
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/drlogic
+[submodule "evolution-web"]
+	path = evolution-web
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/evolution-web
+[submodule "tetravex"]
+	path = tetravex
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/tetravex
+[submodule "svg-101"]
+	path = svg-101
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/svg-101
+[submodule "apap-mineriza-familia"]
+	path = apap-mineriza-familia
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/apap-mineriza-familia
+[submodule "css-study"]
+	path = css-study
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/css-study
+[submodule "html-love"]
+	path = html-love
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/html-love
+[submodule "presidente-retro-brindis"]
+	path = presidente-retro-brindis
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/presidente-retro-brindis
+[submodule "pixel-server-prompt"]
+	path = pixel-server-prompt
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/pixel-server-prompt
+[submodule "presidente-verano-2015"]
+	path = presidente-verano-2015
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/presidente-verano-2015
+[submodule "presidente-destapa-coro"]
+	path = presidente-destapa-coro
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/presidente-destapa-coro
+[submodule "presidente-photo-2014"]
+	path = presidente-photo-2014
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/presidente-photo-2014
+[submodule "presidente-carnaval-2015"]
+	path = presidente-carnaval-2015
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/presidente-carnaval-2015
+[submodule "presidente-loader"]
+	path = presidente-loader
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/presidente-loader
+[submodule "capital-dbg-server-prompt"]
+	path = capital-dbg-server-prompt
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/capital-dbg-server-prompt
+[submodule "main-front"]
+	path = main-front
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/main-front
+[submodule "descubria"]
+	path = descubria
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/descubria
+[submodule "voxel-animation"]
+	path = voxel-animation
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/voxel-animation
+[submodule "flat-css"]
+	path = flat-css
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/flat-css
+[submodule "hello"]
+	path = hello
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/hello
+[submodule "window"]
+	path = window
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/window
+[submodule "test-pixel-perfect-tree"]
+	path = test-pixel-perfect-tree
+	branch = gh-pages
+	url = https://github.com/miguel-rivas/test-pixel-perfect-tree
