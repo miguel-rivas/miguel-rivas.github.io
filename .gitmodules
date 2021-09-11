@@ -81,4 +81,5 @@
 	url = https://github.com/miguel-rivas/2021-react
 [submodule "2021-vue"]
 	path = 2021-vue
+	branch = gh-pages
 	url = https://github.com/miguel-rivas/2021-vue
