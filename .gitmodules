@@ -108,3 +108,7 @@
 	path = test-pixel-perfect-tree
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/test-pixel-perfect-tree
+[submodule "formability"]
+	path = formability
+	url = https://github.com/miguel-rivas/formability
+	branch = gh-pages

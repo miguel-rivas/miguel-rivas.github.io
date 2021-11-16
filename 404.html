@@ -1,103 +1,70 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Miguel Rivas // 404</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
-    <meta property="og:image" content="https://miguel-rivas.github.io/zapp/img/preview.png">
-    <meta property="og:image:type" content="image/png">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    <link rel="shortcut icon" type="image/x-icon" href="https://miguel-rivas.github.io/zapp/img/favicon.ico">
-    <link rel="icon" type="image/png" sizes="256x256" href="https://miguel-rivas.github.io/zapp/img/favicon-256x256.png">
-    <link rel="icon" type="image/png" sizes="128x128" href="https://miguel-rivas.github.io/zapp/img/favicon-128x128.png">
-    <link rel="icon" type="image/png" sizes="64x64" href="https://miguel-rivas.github.io/zapp/img/favicon-64x64.png">
-    <link rel="icon" type="image/png" sizes="48x48" href="https://miguel-rivas.github.io/zapp/img/favicon-48x48.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://miguel-rivas.github.io/zapp/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="24x24" href="https://miguel-rivas.github.io/zapp/img/favicon-24x24.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://miguel-rivas.github.io/zapp/img/favicon-16x16.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://miguel-rivas.github.io/zapp/img/favicon-180x180.png">
-    <meta name="msapplication-TileColor" content="#e9c200">
-    <meta name="msapplication-TileImage" content="https://miguel-rivas.github.io/zapp/img/favicon-128x128.png">
+<head>
+  <title>Miguel Rivas // 404</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
 
-    <style>
-      * {
-        box-sizing: border-box;
-      }
+  <meta property="og:image" content="https://miguel-rivas.github.io/zapp/img/preview.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <link rel="shortcut icon" type="image/x-icon" href="https://miguel-rivas.github.io/zapp/img/favicon.ico">
+  <link rel="icon" type="image/png" sizes="256x256" href="https://miguel-rivas.github.io/zapp/img/favicon-256x256.png">
+  <link rel="icon" type="image/png" sizes="128x128" href="https://miguel-rivas.github.io/zapp/img/favicon-128x128.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="https://miguel-rivas.github.io/zapp/img/favicon-64x64.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="https://miguel-rivas.github.io/zapp/img/favicon-48x48.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://miguel-rivas.github.io/zapp/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="24x24" href="https://miguel-rivas.github.io/zapp/img/favicon-24x24.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://miguel-rivas.github.io/zapp/img/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://miguel-rivas.github.io/zapp/img/favicon-180x180.png">
+  <meta name="msapplication-TileColor" content="#e9c200">
+  <meta name="msapplication-TileImage" content="https://miguel-rivas.github.io/zapp/img/favicon-128x128.png">
 
-      body {
-        background-color:#ff5594;
-        color: #2E2F30;
-        text-align: center;
-        font-family: 'Montserrat', helvetica, sans-serif;
-        margin: 0;
-      }
+  <style>
+    * {
+      box-sizing: border-box;
+    }
 
-      body:before {
-        content: "";
-        display: block;
-        position: fixed;
-        z-index: 1;
-        background-color: rgba(0, 0, 0, 0.1);
-        width: 450%;
-        height: 270%;
-        bottom: -183%;
-        right: -240%;
-        pointer-events: none;
-        -webkit-transform: rotate(-35deg);
-            -ms-transform: rotate(-35deg);
-                transform: rotate(-35deg);
-      }
+    html,
+    body {
+      margin: 0;
+      height: 100%;
+      background: rgb(53, 32, 177);
+      background: linear-gradient(180deg,
+          rgba(53, 32, 177, 1) 0%,
+          rgba(46, 26, 176, 1) 28%,
+          rgba(42, 20, 171, 1) 29%,
+          rgba(54, 26, 182, 1) 65%,
+          rgba(80, 54, 192, 1) 100%);
+    }
 
-      aside.texture {
-        background: url('zapp/img/paper.jpg');
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        z-index: 3;
-        opacity: 0.2;
-        pointer-events: none;
-      }
+    main {
+      background-image: url('zapp/img/404.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
+      height: 100%;
+      max-width: 1920px;
+      width: 100%;
+      margin: auto;
+    }
 
-      h1 {
-        font-size: 70px;
-        margin: 0 0 1rem;
-        line-height: 1;
-        color: #710a35;
-      }
+    body {
+      padding: 1rem;
+    }
 
-      p {
-        font-size: 23px;
-        margin: 0 auto 1rem;
-        font-weight: 400;
-        line-height: 1;
-      }
+    .caption {
+      display: none;
+    }
+  </style>
+</head>
 
-      div.dialog {
-        z-index: 2;
-        display: flex;
-        width: 100%;
-        height: 100vh;
-        color: #222;
-        flex-flow: column;
-        padding: 15px;
+<body>
+  <main>
+    <p class="caption">error 404, page not found</p>
+  </main>
+</body>
 
-        align-items: center;
-        justify-content: center;
-        justify-items: center;
-      }
-    </style>
-  </head>
-  <body>
-    <aside class="texture"></aside>
-
-    <div class="dialog">
-      <h1>¯\_( ͡❛ ͜ʖ ͡❛)_/¯</h1>
-      <p>Where did my precious stuff go?</p>
-    </div>
-  </body>
 </html>
