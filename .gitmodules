@@ -100,10 +100,6 @@
 	path = hello
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/hello
-[submodule "window"]
-	path = window
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/window
 [submodule "test-pixel-perfect-tree"]
 	path = test-pixel-perfect-tree
 	branch = gh-pages
