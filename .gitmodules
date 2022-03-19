@@ -1,7 +1,3 @@
-[submodule "2014"]
-	path = 2014
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/2014
 [submodule "2016"]
 	path = 2016
 	branch = gh-pages
