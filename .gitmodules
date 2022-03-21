@@ -114,8 +114,3 @@
 	path = 2014-svelte
 	url = https://github.com/miguel-rivas/2014
 	branch = gh-pages
-
-	[submodule "2014"]
-	path = 2014
-	url = https://github.com/miguel-rivas/2014
-	branch = gh-pages
