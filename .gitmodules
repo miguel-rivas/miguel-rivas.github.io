@@ -114,3 +114,8 @@
 	path = 2014
 	url = https://github.com/miguel-rivas/2014
 	branch = gh-pages
+
+	[submodule "2014-s"]
+	path = 2014-s
+	url = https://github.com/miguel-rivas/2014
+	branch = gh-pages
