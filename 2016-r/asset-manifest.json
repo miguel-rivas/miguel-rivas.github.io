@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae540c05.css",
+    "main.js": "/static/js/main.a7c1c34c.js",
+    "static/js/787.133205d7.chunk.js": "/static/js/787.133205d7.chunk.js",
+    "static/media/paper.jpg": "/static/media/paper.65143ab839e92a51e465.jpg",
+    "static/media/landing_mountains.png": "/static/media/landing_mountains.3ff310534bd145d1f243.png",
+    "static/media/icomoon.svg?pigo7m": "/static/media/icomoon.d89494e7474f5fd3dbc7.svg",
+    "static/media/landing_wall ornament big.png": "/static/media/landing_wall ornament big.cda5833334fe141ec6e4.png",
+    "static/media/landing_giant_character.png": "/static/media/landing_giant_character.f62c382f9d8a2b474270.png",
+    "static/media/ribbon.png": "/static/media/ribbon.d89616b415aaab4db468.png",
+    "static/media/landing_underground.png": "/static/media/landing_underground.3ff71479cbdcfb11c53f.png",
+    "static/media/josue.png": "/static/media/josue.ff7e1fb0f957f26abd20.png",
+    "static/media/landing_wall ornament small.png": "/static/media/landing_wall ornament small.98524c1b3e32c76ad7e6.png",
+    "static/media/icomoon.eot?pigo7m": "/static/media/icomoon.b83a0970b18dc2411725.eot",
+    "static/media/icomoon.woff?pigo7m": "/static/media/icomoon.60289e5f890307873ec3.woff",
+    "static/media/icomoon.ttf?pigo7m": "/static/media/icomoon.8adb579d918bc6d54cde.ttf",
+    "static/media/rene.png": "/static/media/rene.46055f4a69a168171f04.png",
+    "index.html": "/index.html",
+    "main.ae540c05.css.map": "/static/css/main.ae540c05.css.map",
+    "main.a7c1c34c.js.map": "/static/js/main.a7c1c34c.js.map",
+    "787.133205d7.chunk.js.map": "/static/js/787.133205d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae540c05.css",
+    "static/js/main.a7c1c34c.js"
+  ]
+}
