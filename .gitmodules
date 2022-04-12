@@ -14,7 +14,10 @@
 	path = 2022
 	url = https://github.com/miguel-rivas/2022
 	branch = gh-pages
-
+[submodule "2022-04"]
+	path = 2022-04
+	url = https://github.com/miguel-rivas/2022-04
+	branch = gh-pages
 
 
 
