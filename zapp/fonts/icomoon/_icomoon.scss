@@ -1,0 +1,80 @@
+$icons: (
+  "download": "\a41",
+  "save": "\a42",
+  "open": "\a43",
+  "unlock": "\a44",
+  "lock": "\a45",
+  "eyedropper": "\a46",
+  "eraser": "\a47",
+  "monster": "\a00",
+  "snowflake": "\a01",
+  "unity": "\a02",
+  "airplane": "\a03",
+  "brightness": "\a04",
+  "chair-school": "\a05",
+  "chart": "\a06",
+  "chevron": "\a07",
+  "close": "\a08",
+  "cube": "\a09",
+  "duck": "\a10",
+  "color": "\a11",
+  "github": "\a12",
+  "home": "\a13",
+  "linkedin": "\a14",
+  "minus": "\a15",
+  "palette": "\a16",
+  "plus": "\a17",
+  "robot": "\a18",
+  "boat": "\a19",
+  "cog": "\a20",
+  "rocket": "\a21",
+  "leaf": "\a22",
+  "book": "\a23",
+  "css3": "\a24",
+  "movie": "\a25",
+  "gps-fixed": "\a26",
+  "list": "\a27",
+  "collections": "\a28",
+  "rotate-left": "\a29",
+  "rotate-right": "\a30",
+  "bus": "\a31",
+  "car": "\a32",
+  "category": "\a33",
+  "person": "\a34",
+  "move": "\a35",
+  "search": "\a36",
+  "swap": "\a37",
+  "rotate": "\a38",
+  "medical": "\a39",
+  "window": "\a40",
+  "html": "\a48",
+  "haml": "\a49",
+  "pug": "\a50",
+);
+
+@font-face {
+  font-family: "icomoon";
+  src: url("https://miguel-rivas.github.io/zapp/fonts/icomoon/icomoon.eot?xgiqmc");
+  src: url("https://miguel-rivas.github.io/zapp/fonts/icomoon/icomoon.eot?xgiqmc#iefix") format("embedded-opentype"),
+    url("https://miguel-rivas.github.io/zapp/fonts/icomoon/icomoon.ttf?xgiqmc") format("truetype"), url("https://miguel-rivas.github.io/zapp/fonts/icomoon/icomoon.woff?xgiqmc") format("woff"),
+    url("https://miguel-rivas.github.io/zapp/fonts/icomoon/icomoon.svg?xgiqmc#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+nn-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+
+  @each $name, $value in $icons {
+    &.#{$name}:before {
+      content: $value;
+    }
+  }
+}
+
+@function g-icon($key) {
+  @return map-get($icons, $key);
+}
+
