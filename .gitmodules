@@ -1,30 +1,3 @@
-[submodule "2016"]
-	path = 2016
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/2016
-[submodule "2018"]
-	path = 2018
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/2018
-[submodule "2021"]
-	path = 2021
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/2021
-[submodule "2022"]
-	path = 2022
-	url = https://github.com/miguel-rivas/2022
-	branch = gh-pages
-[submodule "2022-04"]
-	path = 2022-04
-	url = https://github.com/miguel-rivas/2022-04
-	branch = gh-pages
-
-
-
-[submodule "2021-react"]
-	path = 2021-react
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/2021-react
 [submodule "drlogic"]
 	path = drlogic
 	branch = gh-pages
@@ -112,8 +85,4 @@
 [submodule "formability"]
 	path = formability
 	url = https://github.com/miguel-rivas/formability
-	branch = gh-pages
-[submodule "2014-svelte"]
-	path = 2014-svelte
-	url = https://github.com/miguel-rivas/2014
 	branch = gh-pages
