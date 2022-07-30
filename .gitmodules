@@ -14,10 +14,6 @@
 	path = svg-101
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/svg-101
-[submodule "apap-mineriza-familia"]
-	path = apap-mineriza-familia
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/apap-mineriza-familia
 [submodule "css-study"]
 	path = css-study
 	branch = gh-pages
