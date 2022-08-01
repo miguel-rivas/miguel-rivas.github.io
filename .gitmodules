@@ -1,7 +1,3 @@
-[submodule "drlogic"]
-	path = drlogic
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/drlogic
 [submodule "evolution-web"]
 	path = evolution-web
 	branch = gh-pages
@@ -26,10 +22,6 @@
 	path = presidente-retro-brindis
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/presidente-retro-brindis
-[submodule "pixel-server-prompt"]
-	path = pixel-server-prompt
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/pixel-server-prompt
 [submodule "presidente-verano-2015"]
 	path = presidente-verano-2015
 	branch = gh-pages
@@ -42,14 +34,6 @@
 	path = presidente-photo-2014
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/presidente-photo-2014
-[submodule "presidente-carnaval-2015"]
-	path = presidente-carnaval-2015
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/presidente-carnaval-2015
-[submodule "presidente-loader"]
-	path = presidente-loader
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/presidente-loader
 [submodule "capital-dbg-server-prompt"]
 	path = capital-dbg-server-prompt
 	branch = gh-pages
