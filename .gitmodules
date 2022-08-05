@@ -18,10 +18,6 @@
 	path = presidente-retro-brindis
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/presidente-retro-brindis
-[submodule "presidente-verano-2015"]
-	path = presidente-verano-2015
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/presidente-verano-2015
 [submodule "presidente-photo-2014"]
 	path = presidente-photo-2014
 	branch = gh-pages
