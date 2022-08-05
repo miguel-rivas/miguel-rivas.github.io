@@ -30,10 +30,6 @@
 	path = main-front
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/main-front
-[submodule "descubria"]
-	path = descubria
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/descubria
 [submodule "voxel-animation"]
 	path = voxel-animation
 	branch = gh-pages
