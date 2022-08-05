@@ -1,7 +1,3 @@
-[submodule "evolution-web"]
-	path = evolution-web
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/evolution-web
 [submodule "tetravex"]
 	path = tetravex
 	branch = gh-pages
