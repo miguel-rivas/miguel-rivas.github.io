@@ -10,10 +10,6 @@
 	path = css-study
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/css-study
-[submodule "html-love"]
-	path = html-love
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/html-love
 [submodule "presidente-retro-brindis"]
 	path = presidente-retro-brindis
 	branch = gh-pages
