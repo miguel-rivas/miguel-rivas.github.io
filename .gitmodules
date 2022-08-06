@@ -22,10 +22,6 @@
 	path = presidente-photo-2014
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/presidente-photo-2014
-[submodule "capital-dbg-server-prompt"]
-	path = capital-dbg-server-prompt
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/capital-dbg-server-prompt
 [submodule "main-front"]
 	path = main-front
 	branch = gh-pages
