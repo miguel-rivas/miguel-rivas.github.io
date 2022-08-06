@@ -26,10 +26,6 @@
 	path = voxel-animation
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/voxel-animation
-[submodule "flat-css"]
-	path = flat-css
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/flat-css
 [submodule "hello"]
 	path = hello
 	branch = gh-pages
