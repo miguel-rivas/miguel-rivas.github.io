@@ -22,10 +22,6 @@
 	path = main-front
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/main-front
-[submodule "hello"]
-	path = hello
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/hello
 [submodule "test-pixel-perfect-tree"]
 	path = test-pixel-perfect-tree
 	branch = gh-pages
