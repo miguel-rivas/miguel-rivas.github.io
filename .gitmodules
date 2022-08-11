@@ -6,10 +6,6 @@
 	path = svg-101
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/svg-101
-[submodule "css-study"]
-	path = css-study
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/css-study
 [submodule "presidente-retro-brindis"]
 	path = presidente-retro-brindis
 	branch = gh-pages
