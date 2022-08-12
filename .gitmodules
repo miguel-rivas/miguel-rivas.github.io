@@ -18,10 +18,6 @@
 	path = main-front
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/main-front
-[submodule "test-pixel-perfect-tree"]
-	path = test-pixel-perfect-tree
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/test-pixel-perfect-tree
 [submodule "matryoshka"]
 	path = matryoshka
 	url = https://github.com/miguel-rivas/matryoshka
