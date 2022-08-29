@@ -14,10 +14,6 @@
 	path = presidente-photo-2014
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/presidente-photo-2014
-[submodule "main-front"]
-	path = main-front
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/main-front
 [submodule "matryoshka"]
 	path = matryoshka
 	url = https://github.com/miguel-rivas/matryoshka
