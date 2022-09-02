@@ -2,10 +2,6 @@
 	path = svg-101
 	branch = gh-pages
 	url = https://github.com/miguel-rivas/svg-101
-[submodule "presidente-photo-2014"]
-	path = presidente-photo-2014
-	branch = gh-pages
-	url = https://github.com/miguel-rivas/presidente-photo-2014
 [submodule "matryoshka"]
 	path = matryoshka
 	url = https://github.com/miguel-rivas/matryoshka
